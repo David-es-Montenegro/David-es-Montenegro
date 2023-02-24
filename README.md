@@ -2,7 +2,7 @@
 
 <a href="https://github.com/David-es-Montenegro">
 <img height "100em" src= "https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=github_dark#gh-dark-mode-only"
-<img height "100em" src= "https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=false&theme=swift#gh-light-mode-only"
+<img height "100em" src= "https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=default#gh-light-mode-only"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
