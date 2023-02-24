@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/David-es-Montenegro">
-<img height "100em" src= "https://github-readme-stats.vercel.app/api?username=David-es-Montenegro"
+<img height "100em" src= "https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=github_dark#gh-dark-mode-only"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
