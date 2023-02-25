@@ -3,7 +3,7 @@
 <a href="https://github.com/David-es-Montenegro">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=github_dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=github_dark&count_private=true&custom_title=David%20Montenegro&text_bold=false"
   media="(prefers-color-scheme: dark)"
 />
 <source
