@@ -1,9 +1,19 @@
 ### Hi there 👋
 
 <a href="https://github.com/David-es-Montenegro">
-<img height "100em" src= "https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=github_dark#gh-dark-mode-only">
-<img height "100em" src= "https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=default#gh-light-mode-only">
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=swift&border_color=000000&count_private=true&custom_title=David%20Montenegro&text_bold=false"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+  
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
