@@ -5,6 +5,7 @@
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=github_dark&count_private=true&custom_title=David%20Montenegro&text_bold=false"
   media="(prefers-color-scheme: dark)"
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=David-es-Montenegro&layout=compact&theme=github_dark">
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=David-es-Montenegro&show_icons=true&theme=swift&border_color=000000&count_private=true&custom_title=David%20Montenegro&text_bold=false"
@@ -12,7 +13,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-  
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=David-es-Montenegro&layout=compact&theme=github_dark">
+
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
