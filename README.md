@@ -13,8 +13,3 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
-
-
-- 🔭 Atualmente estou trabalhando no monitoramento de estatísticas via IOT, na área industrial.
-- 🌱 No momento, estou estudando os "ins and outs" das tecnologias de automação IOT.
